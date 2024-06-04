@@ -1,5 +1,8 @@
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGmQBF3O27hVg/profile-displaybackgroundimage-shrink_350_1400/0/1706599227270?e=1723075200&v=beta&t=0i-Bitd5ldDfAvAPvbb3XG-3tmKonEb1Xi2L3MbiWgw)](https://sdfd)
 <h1 align="center">I'm Muhammed Dayeh</h1>
 <h3 align="center">Full Stack Web Developer</h3>
+
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24625099" >
 
 - 📫 How to reach me **dayehmuhammed@gmail.com**
 
