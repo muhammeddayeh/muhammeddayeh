@@ -2,8 +2,8 @@
 <h1 align="center">I'm Muhammed Dayeh</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24625099" >
-
+<!-- <img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24625099" > -->
+<div class="tenor-gif-embed" data-postid="24625099" data-share-method="host" data-aspect-ratio="2" data-width="100%"><a href="https://tenor.com/view/coding-gif-24625099">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 - 📫 How to reach me **dayehmuhammed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
