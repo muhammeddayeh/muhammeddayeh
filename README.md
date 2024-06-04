@@ -2,7 +2,7 @@
 <h1 align="center">I'm Muhammed Dayeh</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gi)" > 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif" > 
 
 - 📫 How to reach me **dayehmuhammed@gmail.com**
 
