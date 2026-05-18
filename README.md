@@ -21,7 +21,7 @@
 ###
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" > 
 
-<p align="left">I'm Muhammed Dayeh a Full Stack Developer<br><br>- 🔭 I’m looking for job as a developer<br>- ⚡ In my free time I learn language</p>
+<p align="left">I'm Muhammed Dayeh a AI & Data Engineering student @ Istanbul Technical University<br></p>
 
 ###
 
